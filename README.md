@@ -7,3 +7,4 @@ untuk keberkahanNya maka saya tidak melakukan
 kecurangan seperti yang telah dispesifikasikan. Aamiin. */
 
 Berikut adalah desain dari latihan 1 berbentuk UML:
+!Desain UML(https://github.com/mnyasin26/LATIHAN1DPBO2023/blob/main/Desain_Latihan1.jpg?raw=true)
