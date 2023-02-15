@@ -1,7 +1,19 @@
+/* Saya Muhamad Nur Yasin Amadudin [2100137] mengerjakan
+latihan 1 dalam
+mata kuliah Desain Pemrograman Berorientasi Objek
+untuk keberkahanNya maka saya tidak melakukan
+kecurangan seperti yang telah dispesifikasikan. Aamiin. */
+
 #include <iostream>
 #include <vector>
 #include "Mahasiswa.hpp"
 #include "Utilities.hpp"
+
+/* Saya Muhamad Nur Yasin Amadudin [2100137] mengerjakan 
+latihan 1 dalam 
+mata kuliah Desain Pemrograman Berorientasi Objek 
+untuk keberkahanNya maka saya tidak melakukan 
+kecurangan seperti yang telah dispesifikasikan. Aamiin. */
 
 using namespace std;
 

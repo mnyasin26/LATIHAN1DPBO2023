@@ -2,6 +2,12 @@
 #include <iostream>
 #include <string>
 
+/* Saya Muhamad Nur Yasin Amadudin [2100137] mengerjakan
+latihan 1 dalam
+mata kuliah Desain Pemrograman Berorientasi Objek
+untuk keberkahanNya maka saya tidak melakukan
+kecurangan seperti yang telah dispesifikasikan. Aamiin. */
+
 // using standard namespace to quickly access std::
 using namespace std;
 

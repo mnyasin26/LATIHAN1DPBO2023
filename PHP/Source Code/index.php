@@ -1,6 +1,12 @@
 <?php
 include "Mahasiswa.php";
 
+/* Saya Muhamad Nur Yasin Amadudin [2100137] mengerjakan 
+latihan 1 dalam 
+mata kuliah Desain Pemrograman Berorientasi Objek 
+untuk keberkahanNya maka saya tidak melakukan 
+kecurangan seperti yang telah dispesifikasikan. Aamiin. */
+
 // Data dummy
 $ojan = new Mahasiswa(
     "Fauzan",

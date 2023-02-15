@@ -1,6 +1,12 @@
 // necessary libraries
 #include <string>
 
+/* Saya Muhamad Nur Yasin Amadudin [2100137] mengerjakan
+latihan 1 dalam
+mata kuliah Desain Pemrograman Berorientasi Objek
+untuk keberkahanNya maka saya tidak melakukan
+kecurangan seperti yang telah dispesifikasikan. Aamiin. */
+
 // MAHASISWA_HPP
 #ifndef MAHASISWA_HPP
 #define MAHASISWA_HPP

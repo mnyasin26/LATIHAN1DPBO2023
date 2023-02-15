@@ -1,3 +1,9 @@
+# Saya Muhamad Nur Yasin Amadudin[2100137] mengerjakan
+# latihan 1 dalam
+# mata kuliah Desain Pemrograman Berorientasi Objek
+# untuk keberkahanNya maka saya tidak melakukan
+# kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 # import the class that required
 from Mahasiswa import Mahasiswa
 from Utilities import Utilities

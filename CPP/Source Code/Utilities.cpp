@@ -1,8 +1,15 @@
+/* Saya Muhamad Nur Yasin Amadudin [2100137] mengerjakan
+latihan 1 dalam
+mata kuliah Desain Pemrograman Berorientasi Objek
+untuk keberkahanNya maka saya tidak melakukan
+kecurangan seperti yang telah dispesifikasikan. Aamiin. */
+
 #include "Utilities.hpp"
 #include <iostream>
 #include <string>
 
 using namespace std;
+
 
 // contructor definition
 Utilities::Utilities(vector<Mahasiswa> source)
