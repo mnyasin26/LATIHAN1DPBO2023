@@ -11,4 +11,4 @@ Berikut adalah desain dari latihan 1 berbentuk UML:
 
 Kelas Mahasiswa adalah representasi dari mahasiswa yang memiliki properti seperti nama, nim, jurusan, fakultas, dan perguruan tinggi. Memiliki beberapa method untuk dapat mengubah isi properti maupun mengambilnya dengan setter dan getter
 
-Kelas Utilitites berfungsi menjadi kontroler dari Mahasiswa dalam melakukan CRUD
+Kelas Utilities berfungsi menjadi kontroler dari Mahasiswa dalam melakukan CRUD
